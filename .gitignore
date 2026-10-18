@@ -1,0 +1,11 @@
+target/
+*.class
+.nb-gradle/
+build/
+nbproject/private/
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
